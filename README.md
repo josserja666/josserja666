@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy [Josser Jaramillo Argaez] 👋
 
-<!--
-**josserja666/josserja666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack en formación, enfocado en el ecosistema de JavaScript (Node.js y React). Me apasiona resolver problemas mediante código limpio, estructurar bases de datos robustas y automatizar tareas.
 
-Here are some ideas to get you started:
+## 🛠️ Mi Stack Tecnológico
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.
+* **Backend:** Node.js, Express.
+* **Bases de Datos:** MySQL, Workbench.
+* **Herramientas:** Git, GitHub, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos en Desarrollo
+* 📂 **Mi Portafolio Web:** Mi carta de presentación al mundo (¡Próximamente!).
+* 📊 **Dashboard Administrativo:** Panel de control con React consumiendo APIs.
+
+---
+*¡Conectemos! Puedes revisar mis repositorios para ver en qué estado van mis proyectos.*
