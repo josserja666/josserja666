@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Josser Jaramillo Argaez] 👋
+# ¡Hola! Soy Josser Jaramillo Argaez 👋
 
 Desarrollador Full Stack en formación, enfocado en el ecosistema de JavaScript (Node.js y React). Me apasiona resolver problemas mediante código limpio, estructurar bases de datos robustas y automatizar tareas.
 
